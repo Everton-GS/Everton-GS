@@ -25,7 +25,7 @@
     <h2 align="left">Bootcamp Realizados!!!</h2>
      <center>  
      <div style="display: inline_block"><br>  
-     <img  alt="Accenture"  height="90" width="150" src="https://bing.com/th?id=AMMS_b685d1e0462b93db8506629089143fec&w=110&h=110&c=7&rs=1&qlt=95&pcl=f9f9f9&o=6&cdv=1&pid=16.1&adlt=strict">
+     <img  alt="Accenture"  height="90" width="150" src="https://1000logos.net/wp-content/uploads/2021/04/Accenture-logo.png">
      <img alt="Porto Digital"  height="90" width="150" src="https://bing.com/th?id=OSK.dd47a8c73218a2ef5acc937c077400ff&w=148&h=148&c=7&o=6&pid=SANGAM&adlt=strict">
      <img alt="Neurotech"     height="90" width="150" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/11/10/615x300/1_neurotech_02-22010361.jpg">
     </center>
