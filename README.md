@@ -23,7 +23,7 @@
      </center>
   </div>
     <h2 align="left">Empresa Responsável pelos Treinamento!!!</h2>
-     
+    <img  alt="Accenture"  height="90" width="150" src="https://www.portodigital.org/_nuxt/img/logo.9d0ef93.svg">
 <div> 
 <h2 align="left">Bootcamp Realizados!!!</h2>
 <div style="display: inline_block"><br>    
