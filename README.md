@@ -23,6 +23,9 @@
    <img  alt="Everton-PHP"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
    <img  alt="Everton-Docker"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
    <img  alt="Everton-PHP"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+   <img  alt="Everton-trello"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg/>
+
+     
      </center>
   </div>
     <h2 align="left">Empresa Responsável pelos Treinamento!!!</h2>
