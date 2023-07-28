@@ -20,6 +20,8 @@
    <img  alt="Everton-SQL"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
    <img  alt="Everton-Windows" height"60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
    <img  alt="Everton-HTML5"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> 
+   <img  alt="Everton-HTML5"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/> 
+     
      </center>
   </div>
     <h2 align="left">Empresa Responsável pelos Treinamento!!!</h2>
