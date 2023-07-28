@@ -30,7 +30,7 @@
   <center>
   <img  alt="Accenture"  height="90" width="150" src="https://1000logos.net/wp-content/uploads/2021/04/Accenture-logo.png">
   <img alt="Neurotech"   height="90" width="150" src="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2022/11/10/615x300/1_neurotech_02-22010361.jpg">
-    <img alt="Neurotech"   height="90" width="150" src="https://ogimg.infoglobo.com.br/in/24948738-c0e-fbb/FT1086A/760/Jornal-do-Comercio.png">
+  <img alt="Jornal do Comércio"   height="90" width="150" src="https://ogimg.infoglobo.com.br/in/24948738-c0e-fbb/FT1086A/760/Jornal-do-Comercio.png">
     
   </center> 
 </div>
