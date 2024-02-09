@@ -20,7 +20,6 @@
       <div>
        <h2 align="left">Framework Desenvolvimento</h2>
         <img  alt="Everton-SpringBoot"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-        <img  alt="Everton-laravel"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
       </div>
       <div>
         <h2 align="left">Devops</h2>
